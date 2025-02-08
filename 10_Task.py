@@ -1,4 +1,4 @@
-# 10 Program to calculate the sum of numbers from 1 to n
+# 10.	Write a program to calculate the sum of numbers from 1 to n, where n is entered by the user
 n = int(input("Enter a number to calculate the sum from 1 to n: "))
 sum = 0
 
